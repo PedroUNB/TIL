@@ -18,4 +18,4 @@ _1 TILs and counting..._
 
 ### AWS
 
-- [Basic Docker Commands](docker/commands.md)
+- [Basic Tips](Amazon%20Web%20Server/Basic%20tips.md)
