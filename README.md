@@ -18,4 +18,4 @@ _1 TILs and counting..._
 
 ### AWS
 
-- [Basic Tips](Amazon%20Web%20Server/Basic tips.md)
+- [Basic Tips](amazon%20web%20server/basic%20tips.md)
