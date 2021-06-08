@@ -2,20 +2,27 @@
 
 > Today I Learned
 
-_1 TILs and counting..._
+_3 TILs and counting..._
 
 ---
 
 ### Categories
 
-* [DOCKER](#docker)
+- [AWS](#AWS)
+- [DOCKER](#docker)
+- [ELASTIC STACK](#Elastic-Stack)
 
 ---
+
+### AWS
+
+- [Basic Tips](amazon-web-server/basic-tips.md)
 
 ### Docker
 
 - [Basic Docker Commands](docker/commands.md)
 
-### AWS
+### Elastic Stack
 
-- [Basic Tips](amazon%20web%20server/basic%20tips.md)
+- [Elastic](elastic-stack/elastic-stack.md)
+- [Logs](elastic-stack/logs.md)
