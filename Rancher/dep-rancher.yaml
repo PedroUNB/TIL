@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  labels:
+    app: rancher
+  name: rancher
+  namespace: atlas
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: atlas
+  strategy: {}
+  template:
+    metadata:
+      labels:
+        app: atlas
+    spec:
+      containers:
+      - image: rancher/rancher:latest
+        imagePullPolicy: IfNotPresent
+        name: atlas
