@@ -2,7 +2,7 @@
 
 > Today I Learned
 
-_4 TILs and counting..._
+_5 TILs and counting..._
 
 ---
 
@@ -11,6 +11,7 @@ _4 TILs and counting..._
 - [AWS](#AWS)
 - [DOCKER](#docker)
 - [ELASTIC STACK](#Elastic-Stack)
+- [GoLang](#GoLang)
 
 ---
 
@@ -26,3 +27,7 @@ _4 TILs and counting..._
 
 - [Elastic](elastic-stack/elastic-stack.md)
 - [Logs](elastic-stack/logs.md)
+
+### GoLang
+
+- [GoLang](GoLang/Getting-started.MD)
