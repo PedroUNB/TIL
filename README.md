@@ -2,7 +2,7 @@
 
 > Today I Learned
 
-_5 TILs and counting..._
+_6 TILs and counting..._
 
 ---
 
@@ -14,7 +14,9 @@ _5 TILs and counting..._
 - [GoLang](#GoLang)
 
 ---
+### Angular
 
+- [Estrutura de Inicialização](Angular/Estrutura-de-inicialização-do-angular.md)
 ### AWS
 
 - [Basic Tips](amazon-web-server/basic-tips.md)
